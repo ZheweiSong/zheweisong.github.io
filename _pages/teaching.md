@@ -16,4 +16,16 @@ author_profile: false
 
 ### Introduction to User Modeling (*for undergraduate students*)
 *Fall 2018, Fall 2021, Fall 2022*
-<br/> This course provides an integrated overview of techniques to model user behavior from economic theory, behavioral economics and computer science. 
+<br/> This course provides an integrated overview of techniques to model user behavior from microeconomics theory, behavioral economics and computer science. 
+
+### Choice Architecture (*for graduate students*)
+*Winter 2018, Winter 2019*
+<br/> This course introduces topics in behavioral economics, including anchoring effect, confirmation bias, narratives, overconfidence, intertemporal choice, prospect theory and framing, which help future information system professionals, designers and managers about human decision rules and their associated biases.
+
+### Programs, Information and People (*for undergraduate students*)
+*Winter 2022*
+<br/> This course overs the fundamental elements of Python programming and how to access data on the internet.
+
+### Introduction to Information Studies (*for undergraduate students*)
+*Fall 2017, Fall 2020, Winter 2021*
+<br/> This course provides the foundational knowledge necessary to begin to address theoretical, cultural and practical issues associated with the Information Revolution. 
