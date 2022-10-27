@@ -7,5 +7,7 @@ redirect_from:
   - /resume
 ---
 
+
+
 My CV will be available soon.
 
