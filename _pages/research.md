@@ -19,6 +19,7 @@ In this paper, we take as given that social identity motivates individuals to ma
 In markets where the true qualities of products are not visible to buyers, a product quality testing organization has expertise in finding out and revealing the true qualities to buyers. However, the quality testing organization often has limited testing capacity. In this study, we consider markets in the long run so that each seller endogenously determines the quality and price of her product. We propose a quality testing algorithm which makes full use of the testing capacity to only test products that maximizes buyer surplus. We show that with our proposed algorithm, the unique Perfect Bayesian Equilibrium maximizes buyer surplus, and thus our proposed algorithm (weakly) dominates any alternative quality testing algorithm. We conduct a laboratory experiment to test the effectiveness of our proposed algorithm. In addition to the SellersMayApply condition in which our proposed algorithm is applied, we also include a Random condition in which the quality testing organization randomly select products to test and reveal their qualities as a benchmark case. The experimental results show that the buyer surplus in the SellersMayApply condition is significantly higher than that in the Random condition.
 
 
+
 ## Work in Progress:
 ### 4. "Can Policy Instruments That Regulate Identity Expression Be Used To Achieve Social Integration?" (With Erin Krupka, Roy Chen and Daphne Chang)
 
