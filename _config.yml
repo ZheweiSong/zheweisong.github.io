@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhewei Song's Personal Website"
 title_separator          : "-"
-name                     : &name "Zhewei Song (宋哲炜)"
+name                     : &name "Zhewei Song"
 description              : &description "Ph.D. candidate at the School of Information, University of Michigan"
 url                      : https://zheweisong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhewei Song"
+  name             : "Zhewei Song (宋哲炜)"
   avatar           : "profile.png"
   bio              : 
   location         : 
