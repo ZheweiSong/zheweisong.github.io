@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: "Zhewei Song (宋哲炜)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Zhewei Song (宋哲炜)
 <br/>
 <br/>
 I am a Ph.D. candidate at the University of Michigan, School of Information. I expect to graduate in 2023. 
