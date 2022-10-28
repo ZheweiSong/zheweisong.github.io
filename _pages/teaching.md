@@ -20,7 +20,7 @@ author_profile: false
 
 ### Choice Architecture (*for graduate students*)
 *Winter 2018, Winter 2019*
-<br/> This course introduces topics in behavioral economics, including anchoring effect, confirmation bias, narratives, overconfidence, intertemporal choice, prospect theory and framing, which help future information system professionals, designers and managers about human decision rules and their associated biases.
+<br/> This course introduces topics in behavioral economics, including anchoring effect, confirmation bias, narratives, overconfidence, intertemporal choice, prospect theory and framing, which help future information system professionals, designers and managers understand human decision rules and their associated biases.
 
 ### Programs, Information and People (*for undergraduate students*)
 *Winter 2022*
