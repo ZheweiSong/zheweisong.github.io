@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhewei Song's website"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Zhewei Song"
 description              : &description "Ph.D. candidate at the School of Information, University of Michigan"
