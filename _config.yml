@@ -82,7 +82,10 @@ analytics:
 author:
   name             : "Zhewei Song (宋哲炜)"
   avatar           : "profile.png"
-  bio              : Ph.D. Candidate \n School of Information \n University of Michigan
+  bio              : >
+  Ph.D. Candidate 
+  School of Information 
+  University of Michigan
   location         : 
   employer         :
   pubmed           : 
