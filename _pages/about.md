@@ -16,4 +16,4 @@ I am interested in modelling consumer and production behavior in markets with as
 
 
 ### Research Interests
-Experimental and Behavioral Economics, Information Economics, Industrial Organization and Market Design, Game Theory
+Experimental and Behavioral Economics, Information Economics, Industrial Organization, Market Design, Game Theory
