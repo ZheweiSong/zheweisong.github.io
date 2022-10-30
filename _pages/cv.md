@@ -9,5 +9,5 @@ redirect_from:
 
 
 
-My CV will be available soon.
+My CV can be found [here](https://zheweisong.github.io/files/cv_ZheweiSong_2022.pdf).
 
