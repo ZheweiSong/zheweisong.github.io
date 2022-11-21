@@ -12,7 +12,9 @@ redirect_from:
 I am a Ph.D. candidate at the University of Michigan, School of Information. I expect to graduate in 2023. 
 
 
-I am interested in modelling consumer and production behavior in markets with asymmetric information and people’s individual and social preferences in social groups using theories in microeconomics, game theory, industrial organization, behavioral economics and social psychology. I conduct controlled laboratory experiments to test my models and investigate people's behavior.
+I am interested in modelling consumer and production behavior and designing informational and behavioral mechanisms to improve efficiency in markets with asymmetric information, using theories in microeconomics, game theory, industrial organization and behavioral economics. I conduct controlled laboratory experiments to investigate sellers’ and buyers’ decisions in a clean environment and test the effectiveness of my proposed mechanisms. 
+
+I am also interested in investigating individual and social preferences in social groups by using insight from behavioral economics and social psychology, and I examine inter-personal and inter-group behavior in laboratory environments.
 
 
 ### Research Interests
