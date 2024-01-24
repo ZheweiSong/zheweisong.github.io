@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-### 1. Daphne Chang, Roy Chen, Erin Krupka & Zhewei Song. (2024). "Do Policy Instruments That Ban Social Identity Expression Increase Economic Cooperation?" . Revised and Resubmit at _European Economic Review_.
+### 1. Daphne Chang, Roy Chen, Erin Krupka & Zhewei Song. (2024). "Do Policy Instruments That Ban Social Identity Expression Increase Economic Cooperation?" . Revise and Resubmit at _European Economic Review_.
 
 ### 2. [Zhewei Song. (2024). "Sellers' Defensive Behavior in Credence Goods Markets with Uncertain Outcomes – Does a Reputation System and/or a Behavioral Nudge Improve Efficiency?" (Job Market Paper)](https://zheweisong.github.io/files/DefensiveTreatment.pdf)
 
