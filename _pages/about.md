@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br/>
 <br/>
-I am a Ph.D. candidate at the University of Michigan, School of Information. I expect to graduate in 2023. 
+I am an assistant professor at University of International Business and Economics, School of International Trade and Economics.
 
 
 I am interested in modelling consumer and producer behaviors and designing informational and behavioral mechanisms to improve efficiency in markets with asymmetric information, using theories in microeconomics, game theory, industrial organization and behavioral economics. I conduct controlled laboratory experiments to investigate sellers’ and buyers’ decisions in a clean environment and test the effectiveness of my proposed mechanisms. 
