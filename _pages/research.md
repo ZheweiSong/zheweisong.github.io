@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ## Publications
-### 1. [Daphne Chang, Roy Chen, Erin Krupka & Zhewei Song. (2024). "Do Policy Instruments That Restrict Social Identity Expression Increase Economic Cooperation?" ._European Economic Review_, 104847](https://doi.org/10.1016/j.euroecorev.2024.104847).
+### 1. [Daphne Chang, Roy Chen, Erin Krupka & Zhewei Song. (2024). "Do Policy Instruments That Restrict Social Identity Expression Increase Economic Cooperation?" _European Economic Review_, 104847](https://doi.org/10.1016/j.euroecorev.2024.104847).
 
 ## Working Papers
 
