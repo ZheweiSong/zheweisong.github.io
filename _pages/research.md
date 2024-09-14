@@ -9,7 +9,7 @@ author_profile: true
 
 ## Working Papers
 
-### 2. [Zhewei Song. (2024). "Sellers' Defensive Behavior in Credence Goods Markets with Uncertain Outcomes – Does a Reputation System and/or a Behavioral Nudge Improve Efficiency?" (Job Market Paper)](https://zheweisong.github.io/files/DefensiveTreatment.pdf)
+### 2. [Zhewei Song. (2024). "Sellers' Defensive Behavior in Credence Goods Markets with Uncertain Outcomes – Does a Reputation System and/or a Behavioral Nudge Improve Efficiency?"](https://zheweisong.github.io/files/DefensiveTreatment.pdf)
 
 ### 3.	[Zhewei Song & Ulrike Vollstaedt. (2024). "How to Make Better and/or Cheaper Products Accessible to Buyers through an Optimal Product Testing Mechanism"](https://zheweisong.github.io/files/ProductTesting.pdf)
 
